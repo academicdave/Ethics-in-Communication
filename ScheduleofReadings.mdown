@@ -1,0 +1,120 @@
+### Schedule of Readings
+
+### Week One
+* January 16th
+	- Introduction to the Class
+
+### Week Two
+
+* January 21
+	* Marshall McLuhan, "The Medium is the Message"
+	* *Blown to Bits* [Chapter 1](http://www.bitsbook.com/wp-content/uploads/2008/12/chapter1.pdf)
+* January 23
+	* *Culture and Technology* Chapters 3,4,8 & 9 
+
+### Week Three
+* January 28
+	* *Culture and Technology* Chapters 10-12
+* January 30
+	* Hyde, et al. "What is Collaboration Anyway." *The Social Media Reader*
+	* Jaron Lanier, ["Digital Maoism: The Hazards of New Online Collectivism."](http://www.edge.org/conversation/digital-maoism-the-hazards-of-the-new-online-collectivism)
+
+### Week Four
+* February 4
+	* Neil Postman, *Amusing Ourselves to Death* 
+* February 6
+	* Neil Postman, *Amusing Ourselves to Death*  
+
+### Week Five
+* February 11
+	* Miles Townes, "The Spread of TCP/IP and the Political Origins of the Internet"
+	*  *Blown to Bits* [Appendix](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf) (Starts on Page 296)
+	*  ["There and Back Again"](http://worldsciencefestival.com/videos/there_and_back_again_a_packets_tale) (video) 
+* February 13
+	* Tim Wu, ["The Radicalism of the Internet"](https://dl.dropboxusercontent.com/u/82198/Radicalism.pdf)
+	* ["History of the Internet"](http://www.youtube.com/watch?v=9hIQjrMHTv4) (Video)
+	*  *Blown to Bits* [Chapter 3](http://www.bitsbook.com/wp-content/uploads/2008/12/chapter3.pdf) 
+
+### Week Six
+* February 18
+	* *Culture and Technolgoy* Chapters 13 & 14
+	* danah boyd, "Participating in the Always on Lifestyle" *The Social Media Reader* 
+* February 20
+	* Zeynep Tufekci, ["Social Media's Small, Positive Role in Human Relationships."](http://www.theatlantic.com/technology/archive/2012/04/social-medias-small-positive-role-in-human-relationships/256346/)
+	* Ellison et al., ["How Social Network Sites Affect Social Capital Processes."](https://dl.dropboxusercontent.com/u/82198/Ellison.pdf) 
+
+### Week Seven
+* February 25
+	* Lisa Nakamura, ["Race and Identity in Digital Media"](http://lnakamur.files.wordpress.com/2012/11/nakamura-curran-article.pdf)
+	* Xeni Jardin, ["Men Invented the Internet"](http://boingboing.net/2012/06/03/nyt-men-invented-the-inter.html)
+	* Tasneem Raja, ["Silicon Valley's Brogrammer Problem"](http://www.motherjones.com/media/2012/04/silicon-valley-brogrammer-culture-sexist-sxsw)
+	* Catherine Bracy, ["What Techies Need to Know About Politics"](http://personaldemocracy.com/media/what-techies-need-know-about-politics)
+
+* February 27
+	* Yochai Benkler, "Sharing Nicely: On Shareable Goods and teh Emergence of Sharing as a Modality of Economic Production" *The Social Media Reader*
+	* Siva Vaidhyanathan, "Open Source as Culture/Culture as Open Source" *The Social Media Reader*
+
+### Week Eight
+* March 4
+	* [*Rip: A Remix Manifesto*](http://ripremix.com/) 
+	* ["About"](http://creativecommons.org/about) page of Creative Commons (Also read [History](http://creativecommons.org/about/history), and [Case Studies](http://wiki.creativecommons.org/Case_Studies) )
+* March 6
+	* **Midterm** 
+
+### *Spring Break*
+
+### Week Nine
+* March 18
+	* *Culture of Connectivity* (Intro)
+* March 20
+	* *Culture of Connectivity* Case Studies
+
+### Week Ten
+* March 25
+	* Michel Foucault, ["Discipline and Punish"](https://dl.dropboxusercontent.com/u/82198/Foucault%20D%20and%20P.pdf)
+	* Howard Rheingold, ["Always on Panopticon or Cooperation Amplifier"](https://dl.dropboxusercontent.com/u/82198/Rheingold.pdf) 
+
+* March 27
+	* [*Terms and Conditions May Apply*](http://tacma.net/)
+	* ["Big Brother is Watching You"](https://www.youtube.com/watch?v=o66FUc61MvU) 
+
+### Week Eleven
+* April 1
+	* [*We Live in Public*](http://weliveinpublic.blog.indiepixfilms.com/) by Odni Timoner 
+* April 3
+	* ["The NSA Files: Decoded."](http://www.theguardian.com/world/interactive/2013/nov/01/snowden-nsa-files-surveillance-revelations-decoded#section/1) 
+	* Evgeny Morozov, ["The Price of Hypocrisy"](http://www.faz.net/aktuell/feuilleton/debatten/ueberwachung/information-consumerism-the-price-of-hypocrisy-12292374.html)
+	* Quinn Norton, ["Seen by the State"](https://medium.com/quinn-norton/2c7e04889d8e)
+
+### Week Twelve
+* April 8
+	* ["Me and My Shadow"](https://exposingtheinvisible.org/resources/watching-out-yourself/me-and-my-shadow/) Tactical Tech
+	* ["Security in a Box"](https://securityinabox.org/en/howtobooklet) Tactical Tech
+	* ["Alternatives"](https://alternatives.tacticaltech.org/) Tactical Tech
+* April 10
+	* [*We Are Legion*](http://wearelegionthedocumentary.com/) Documentary		
+
+### Week Thirteen
+* April 15
+	* ["Unmasking Reddit's Violentacrez"](http://gawker.com/5950981/unmasking-reddits-violentacrez-the-biggest-troll-on-the-web) *Gawker*
+	* ["Gawker.com and affliate sites are no longer allowed"](http://www.reddit.com/r/todayilearned/comments/11irq1/todayilearned_new_rule_gawkercom_and_affiliate/) *Reddit*
+	* ["Reddit's Biggest Troll Fired From His Real World Job"](http://gawker.com/5951987/reddits-biggest-troll-fired-from-his-real-world-job-reddit-continues-to-censor-gawker-articles) *Gawker*	
+* April 17
+	* Clay Shirky, ["The Political Power of Social Media"](https://dl.dropboxusercontent.com/u/82198/Shirky.pdf)
+	* Evgeny Morozov, ["The Internet in Soceity: Empowering or Censoring Citizens"](http://www.youtube.com/watch?v=Ah_T9cg-J6s) 
+
+### Week Fourteen
+* April 22
+	* ["The Internet Must Go"](http://www.theinternetmustgo.com/)
+	* Rebecca MacKinnon, ["Consent of the Networked"](http://www.youtube.com/watch?v=apvtIbbHAUQ) 
+* April 24
+	* Johnathan Zittrain, ["The Future of the Internet and How to Stop It."](http://www.youtube.com/watch?v=o7UlYTFKFqY) 
+
+### Week Fifteen
+* April 29
+	* 3D Printing 
+* May 1
+	* Final Class
+
+Final 
+
