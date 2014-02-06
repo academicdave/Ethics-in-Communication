@@ -1,0 +1,29 @@
+### Knowledgebase Assignment
+
+### Signing Up
+First thing you need to do is get an account to be able to edit the class wiki.
+* Go to the mainpage. Make sure you are on the correct one. If you are in the 12:30 section you are "Hive" and the image should be of a Beehive. If you are in the 3:30 Section you are "Commons" and you should be a field.
+* In the upper right click "Create Account."
+* Fill out the form.
+* Remember your password.
+* Then go to your own user page and edit the info.
+
+### First Edit
+* Once you have been approved for editing you can make cahnges and now edit any page on the Wiki.
+* From the "Main Page" go to the "Sandbox." You should see this link at the bottom under class notes.
+* You should see a tab that says "Edit."
+* Click on this tab. This should bring up a window that allows you to edit the page.
+* The Toolbar at the top should let you format text. When you write the text in the box it might look "strange" but when you hit publish if you use the toolbar at the top it should look like you want.
+* Play around on this page until you are comfortable editing the wiki. Try adding in a link, a header, and a list.
+
+### The Knowledgebase
+* The goal of the Knowledgebase is to collect a set of collaborative notes of all the material we have discussed in class.
+* Editing the Knowledgebase will be divided into three steps.
+	- Collecting the Information
+	- Synthesizing and Clarifying
+	- Editing
+* Some important things to keep in mind about the Knowledgebase.
+	- It is a wiki so it is impossible for you to make an error and accidently delete everything. We can always just "roll back" the wiki to the point before you deleted or made an unitentional edit. Think of it as having a built in "Time Machine."
+	- MediaWiki (the software we are using) is the same platform as Wikipedia, making it powerful, but also a bit more difficult to use than some wikis. It also lets me see every submission by any user. This makes it easy for me to see your individual contribbutions.
+	- Each page also has a "talk" page associated with it. You can use this page to "talk" to your classmates as a way to coordinate editing. This will become really useful as we approach the midterm.
+	- Because it is a Wiki it is easy to add and then edit. Don't worry about getting things perfect on the first, or even second attempt.
